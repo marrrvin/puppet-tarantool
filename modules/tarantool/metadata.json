@@ -1,0 +1,25 @@
+{
+  "author": "Sergey Orlov",
+  "checksums": {
+    "Rakefile": "f37e6131fe7de9a49b09d31596f5fbf1",
+    "manifests/instance.pp": "5ade89a864d4b5a67e00245e9cb7cf4c",
+    "manifests/init.pp": "3a56aacd47faf1a1300e1af01f8c9edb",
+    "manifests/client.pp": "9c697da020d0b31f9a378e30cec71b33",
+    "templates/instance.cfg.erb": "532f3eb4bcbc2859e512935c3b28e48a",
+    "manifests/server.pp": "5e42bd57e7062149c2f79b538f1fd387",
+    "Modulefile": "d25f7a84c63e659df6ee5d4362caf600",
+    "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "tests/init.pp": "d5470fc803fc98f20ba04396e66239ca",
+    "spec/spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0",
+    "README.markdown": "7e99804cbd456b5eff7a3cccf4781a8c"
+  },
+  "dependencies": [],
+  "description": "",
+  "license": "",
+  "name": "marrrvin-tarantool",
+  "project_page": "https://github.com/marrrvin/puppet-tarantool",
+  "source": "git@github.com:marrrvin/puppet-tarantool.git",
+  "summary": "Manage tarantool - a NoSQL database",
+  "types": [],
+  "version": "0.1.0"
+}
