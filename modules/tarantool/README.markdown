@@ -1,3 +1,0 @@
-# tarantool #
-
-This is the tarantool module. It provides...

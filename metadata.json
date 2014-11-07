@@ -1,0 +1,20 @@
+{
+  "name": "marrrvin-tarantool",
+  "version": "0.1.0"
+  "source": "git@github.com:marrrvin/puppet-tarantool.git",
+  "author": "Sergey Orlov",
+  "license": "",
+  "summary": "Manage tarantool - a NoSQL database",
+  "description": "",
+  "project_page": "https://github.com/marrrvin/puppet-tarantool",
+  "issues_url": "https://github.com/marrrvin/puppet-tarantool/issues",
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "Ubuntu",
+      "operatingsystemrelease": [
+        "14.04"
+      ]
+    }
+  ],
+  "dependencies": [],
+}

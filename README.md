@@ -1,4 +1,3 @@
-tarantool
-===
-This module installs and configures tarantool instances.
+# tarantool #
 
+This is the tarantool module. It provides...
