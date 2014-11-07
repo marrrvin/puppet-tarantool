@@ -1,6 +1,6 @@
 {
   "name": "marrrvin-tarantool",
-  "version": "0.1.0"
+  "version": "0.1.0",
   "source": "git@github.com:marrrvin/puppet-tarantool.git",
   "author": "Sergey Orlov",
   "license": "",
@@ -16,5 +16,5 @@
       ]
     }
   ],
-  "dependencies": [],
+  "dependencies": []
 }
