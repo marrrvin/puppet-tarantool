@@ -4,8 +4,8 @@
   "source": "git@github.com:marrrvin/puppet-tarantool.git",
   "author": "Sergey Orlov",
   "license": "",
-  "summary": "Manage tarantool - a NoSQL database",
-  "description": "",
+  "summary": "Puppet module for Tarantool",
+  "description": "Module to configure Tarantool NoSQL database.",
   "project_page": "https://github.com/marrrvin/puppet-tarantool",
   "issues_url": "https://github.com/marrrvin/puppet-tarantool/issues",
   "operatingsystem_support": [
