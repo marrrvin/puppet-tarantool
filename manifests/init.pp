@@ -1,8 +1,7 @@
 
 class tarantool {
-  Class['tarantool::server'] -> Class['tarantool::service']
+  Class['tarantool::install'] -> Class['tarantool::service']
 
-  class { 'tarantool::server': }
-  class { 'tarantool::client': }
+  class { 'tarantool::install': }
   class { 'tarantool::service': }
 }
